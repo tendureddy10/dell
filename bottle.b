@@ -1,3 +1,0 @@
-bottle white
-
-white bottle
